@@ -65,6 +65,16 @@ namespace RoomRes_SecA
             txtcusid.Focus();
         }
 
+		private void button1_Click(object sender, EventArgs e)
+        {
+            roomida01 = textBox2.Text;
+            string del_que = "DELETE  FROM Cusdetails WHERE RoomNo='" + roomida01 + "' ";
+             cmd = new SqlCommand(del_que, con);
+                con.Open();
+                cmd.ExecuteNonQuery();
+                con.Close();
+                MessageBox.Show("ROOM A-01 Details Deleted Succesfully", "Delete Done!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
         
         private void button2_Click(object sender, EventArgs e)
         {
