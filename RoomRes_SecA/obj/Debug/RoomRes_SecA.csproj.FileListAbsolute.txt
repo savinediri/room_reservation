@@ -1,0 +1,21 @@
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\bin\Debug\RoomRes_SecA.exe.config
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\bin\Debug\RoomRes_SecA.exe
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\bin\Debug\RoomRes_SecA.pdb
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.csprojResolveAssemblyReference.cache
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.Properties.Resources.resources
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.RoomRes_secA.resources
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.room_A01.resources
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.csproj.GenerateResource.Cache
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.exe
+c:\users\bhanuji pc\documents\visual studio 2013\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.pdb
+F:\Projects\RoomRes_SecA\RoomRes_SecA\bin\Debug\RoomRes_SecA.exe.config
+F:\Projects\RoomRes_SecA\RoomRes_SecA\bin\Debug\RoomRes_SecA.exe
+F:\Projects\RoomRes_SecA\RoomRes_SecA\bin\Debug\RoomRes_SecA.pdb
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.csprojAssemblyReference.cache
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.Properties.Resources.resources
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.RoomRes_secA.resources
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.room_A01.resources
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.csproj.GenerateResource.cache
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.csproj.CoreCompileInputs.cache
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.exe
+F:\Projects\RoomRes_SecA\RoomRes_SecA\obj\Debug\RoomRes_SecA.pdb
