@@ -108,7 +108,35 @@ namespace RoomRes_SecA
 
         private void button4_Click(object sender, EventArgs e)
         {
-           
+           private void button4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string datx;
+                datx = dateTimePicker1.Value.ToString();
+
+                string checkA03 = "SELECT * FROM Cusdetails WHERE ck='" + datx + "'";
+                con.Open();
+                sqlda = new SqlDataAdapter(checkA03, con);
+                con.Close();
+                DataTable DTA03 = new DataTable();
+                sqlda.Fill(DTA03);
+
+                if (
+                    DTA03.Rows.Count > 0
+                    )
+                {
+                    MessageBox.Show("reserverd", "shit", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show(" Not reserverd", "shit", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while loading..." + Environment.NewLine + Environment.NewLine + ex);
+            }
         } 
     }
 }
